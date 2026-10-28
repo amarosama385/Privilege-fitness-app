@@ -9,6 +9,10 @@
 
 ---
 
+
+<img width="1024" height="1024" alt="d79a86fc-ec64-44b4-834e-0610a446f3b0" src="https://github.com/user-attachments/assets/0bafba73-eaf6-4440-a596-1057e98a3443" />
+
+
 ## 📱 About Privilege
 
 **Privilege** is a premium fitness application built for health-conscious users who want a secure, data-driven approach to fitness and nutrition. The platform provides:
@@ -118,12 +122,4 @@ Privilege is built to comply with:
 > **CONFIDENTIAL — STRICT PRIVILEGE INTEL**
 > This repository and its contents are proprietary. Unauthorized access, distribution, or reproduction is strictly prohibited.
 
----
-
-## 📬 Contact
-
-For security disclosures or inquiries, please see [`docs/SECURITY.md`](docs/SECURITY.md).
-
----
-
-*Privilege — Your fitness. Your data. Your privilege.*
+-----
