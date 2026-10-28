@@ -123,3 +123,9 @@ Privilege is built to comply with:
 > This repository and its contents are proprietary. Unauthorized access, distribution, or reproduction is strictly prohibited.
 
 -----
+
+Contact
+
+Recommendations or issues? Reach us at supportprivilegefitness@gmail.com.
+
+
