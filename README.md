@@ -2,10 +2,8 @@
 
 > **A mobile-first fitness platform offering free diet plans with premium upgrade options, advanced workout tracking, wearable integration, and a secure sports community.**
 
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue?style=flat-square)](.)
-[![Security](https://img.shields.io/badge/Encryption-AES--256%20%7C%20TLS%201.3-green?style=flat-square)](.)
-[![Compliance](https://img.shields.io/badge/Compliance-GDPR%20%7C%20ISO%2027001-orange?style=flat-square)](.)
-[![Status](https://img.shields.io/badge/Status-Production%20Final%20Gate-red?style=flat-square)](.)
+<img width="2000" height="2000" alt="new logo 2" src="https://github.com/user-attachments/assets/3a2b9225-0fb9-44f8-ade4-dea48b2e054b" />
+
 
 ---
 
@@ -123,6 +121,20 @@ Privilege is built to comply with:
 > This repository and its contents are proprietary. Unauthorized access, distribution, or reproduction is strictly prohibited.
 
 -----
+Developers
+
+Name	                   ID
+_________________________________
+Ibrahim Mohamed Haggag	26104141
+_________________________________
+Hossam Mohamed Ismail	26104503
+_________________________________
+Abdalla Hithem Alam	    26103049
+_________________________________
+Ammar Osama Mohammad	26103884
+_________________________________
+
+Contact
 
 Contact
 
