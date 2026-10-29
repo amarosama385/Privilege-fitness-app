@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
- <img width="2000" height="2000" alt="new logo 2" src="https://github.com/user-attachments/assets/e10b38f4-6c94-40b0-9265-dfa6580690fa" />
+ <img width="1083" height="1452" alt="2df7f6c8-d280-4c27-a25f-14af1ca325ec" src="https://github.com/user-attachments/assets/45047282-4115-40d5-8653-234b6a225e56" />
+
 
 </p>
 ---
