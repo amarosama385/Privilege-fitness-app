@@ -8,11 +8,6 @@
  <img width="2000" height="2000" alt="new logo 2" src="https://github.com/user-attachments/assets/e10b38f4-6c94-40b0-9265-dfa6580690fa" />
 
 </p>
-
-<p align="center">
-  <img src="assets/device-mockup.png" alt="Privilege on a tablet" width="520">
-</p>
-
 ---
 
 ## Table of Contents
