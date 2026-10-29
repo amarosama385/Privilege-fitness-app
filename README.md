@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Privilege logo" width="320">
-</p>
-
 <h1 align="center">Privilege</h1>
 <p align="center"><b>Eat Well. Stay Well.</b></p>
 <p align="center">
@@ -65,7 +61,8 @@ Research also points to a local need. Mobile health adoption in Egypt is only **
 ## App Screens
 
 <p align="center">
-  <img src="assets/app-layout.jpg" alt="Privilege interactive app layout" width="700">
+  <img width="765" height="1024" alt="WhatsApp Image 2026-10-21 at 4 56 22 PM" src="https://github.com/user-attachments/assets/a6fe1dfe-1a5a-482e-a3bd-b700e35cd5e9" />
+
 </p>
 
 The concept layout covers: login, plan organiser, splits & sports merge, AI chat box, recipe recommendations, calorie tracking, sports & exercise tutorials, cheat meals organiser, and subscription plans.
@@ -74,17 +71,9 @@ The concept layout covers: login, plan organiser, splits & sports merge, AI chat
 
 ## Availability
 
-<p align="center">
-  <img src="assets/store-listing.jpg" alt="Privilege store listings concept" width="700">
-</p>
-
 Privilege is planned for both Google Play and the App Store. The image above is a concept of the store listings.
 
 ## Stakeholders
-
-<p align="center">
-  <img src="assets/stakeholders.jpg" alt="Privilege app stakeholders" width="700">
-</p>
 
 End users, fitness coaches and nutritionists, partners and sponsors (gyms and food providers), the app developers and tech team, and administrators and management.
 
@@ -113,9 +102,7 @@ Privilege is designed to reduce that exposure:
 - **180-second decaying token framework.** Session permissions are mirrored non-persistently in volatile memory and zero-masked on expiration.
 - **AES-256** encryption for data at rest.
 - **TLS 1.3** for all communications.
-- **Role-based access control (RBAC).**
 - **API gateway** with rate limiting and authentication.
-- **PostgreSQL** with encryption at rest.
 - **Multi-factor authentication** for admin access to servers.
 - **Regular vulnerability scanning and patching.**
 - **Hardware security enclave certificates** signed before deployment.
@@ -172,10 +159,6 @@ The release schedule is a hard gate: a failed milestone blocks the release build
 ## Contact
 
 Recommendations or issues? Reach us at **supportprivilegefitness@gmail.com**.
-
-## License
-
-No license has been chosen yet. Add a `LICENSE` file (for example MIT) before making the repository public.
 
 ---
 
