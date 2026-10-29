@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-informational">
-  <img alt="Status" src="https://img.shields.io/badge/status-in%20development-orange">
-  <img alt="Encryption" src="https://img.shields.io/badge/encryption-AES--256%20%7C%20TLS%201.3-success">
+ <img width="2000" height="2000" alt="new logo 2" src="https://github.com/user-attachments/assets/e10b38f4-6c94-40b0-9265-dfa6580690fa" />
+
 </p>
 
 <p align="center">
