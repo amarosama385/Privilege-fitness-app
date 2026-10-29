@@ -31,7 +31,6 @@
 - [Research Background](#research-background)
 - [Developers](#developers)
 - [Contact](#contact)
-- [License](#license)
 
 ## About
 
